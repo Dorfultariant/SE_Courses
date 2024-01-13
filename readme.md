@@ -10,11 +10,9 @@ This repository contains links to all the Computer Science courses that I have c
 
 - Object-Oriented-Programming with Java: This course was divided into two parts, in the first part we got to learn the basics of class structures and how they are implemented in Java, simple terminal based programs were created. 
 
-<<<<<<< HEAD
 - The second part is Mobile development in which we created Android applications using Android Studio and Java. These applications include different types of listing software using common UI styles such as tablayouts utilizing fragments.
-=======
+
 - The second part is Mobile development in which we created Android applications using Android Studio and Java. These applications include different types of listing software using common UI styles such as tablayouts utilizing fragments.
->>>>>>> 376e0f4 (Projects and assignments sources)
 
 - Introduction to Web programming: Here we had the ability to create a browser based game as the course project. Additionally, we used frameworks such as leaflet with GeoJSON and Frappe charts. The main focus of the course was on content, principles and responsiveness.
 
@@ -40,8 +38,5 @@ This repository contains links to all the Computer Science courses that I have c
 
 - Foundations of Computer Science: We were able to take a deep dive to the low level of the working behaviour of computers, deepening the knowledge about logic and introducing microprogrammed computers and how to read microcode. We also studied about machine language and state machines. Essentially this course was a continuation from Foundations of Information Processing.
 
-<<<<<<< HEAD
 - Algorithms and Data Structures: The aim of this course was to introduce the limitations of certain algorithms and seed the idea of algorithmic optimization for the task at hand. During the course there were certain limitations how the algorithms needed to be implemented to meet the time complexity specifications. Many data structures such as hashtable, binary tree and heap, linked list and graph were implemented using Python.
-=======
-- Algorithms and Data Structures: The aim of this course was to introduce the limitations of certain algorithms and seed the idea of algorithmic optimization for the task at hand. During the course there were certain limitations how the algorithms needed to be implemented to meet the time complexity specifications. Many data structures such as hashtable, binary tree and heap, linked list and graph were implemented using Python.
->>>>>>> 376e0f4 (Projects and assignments sources)
+
