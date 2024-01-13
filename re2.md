@@ -11,7 +11,7 @@ This repository contains links to all the Computer Science courses that I have c
 - Object-Oriented-Programming with Java: This course was divided into two parts, in the first part we got to learn the basics of class structures and how they are implemented in Java, simple terminal based programs were created. 
 
 <<<<<<< HEAD
-- The second part is Mobile development in which we created Android applications using Android Studio and Java. These applications include different types of listing software using common UI styles such as tablayouts utilizing fragments.
+The second part is Mobile development in which we created Android applications using Android Studio and Java. These applications include different types of listing software using common UI styles such as tablayouts utilizing fragments. 
 =======
 - The second part is Mobile development in which we created Android applications using Android Studio and Java. These applications include different types of listing software using common UI styles such as tablayouts utilizing fragments.
 >>>>>>> 376e0f4 (Projects and assignments sources)
