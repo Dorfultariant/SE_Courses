@@ -17,8 +17,6 @@ This repository contains information about the Software Engineering courses I ha
 
 - Front-end Development: During this course I got to learn more on website responsiveness and content presentation. The site was implemented using SCSS to write the styling and some javascript to manipulate elements such as dynamic buttons. The website was deployed using github-pages.
 
-- Operating Systems and System Programming: The main goal on this course was to get to know Operating Systems on a deeper level and some utilities were implemented using C in Linux environment.
-
 
 ## Software Development
 
