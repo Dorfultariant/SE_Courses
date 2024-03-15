@@ -1,7 +1,6 @@
 ######################################################################
 # CT60A0203 Ohjelmoinnin perusteet
 # Tekijä: Teemu Hiltunen
-# Opiskelijanumero: 000393597
 # Päivämäärä: 17.11.2022
 # Kurssin oppimateriaalien lisäksi työhön ovat vaikuttaneet seuraavat
 # lähteet ja henkilöt, ja se näkyy tehtävässä seuraavalla tavalla:
