@@ -17,6 +17,8 @@ This repository contains information about the Software Engineering courses I ha
 
 - Front-end Development: During this course I got to learn more on website responsiveness and content presentation. The site was implemented using SCSS to write the styling and some javascript to manipulate elements such as dynamic buttons. The website was deployed using github-pages.
 
+- Advanced Web Applications: Extending from Introduction to Web programming course, this course introduced backend where Express nodejs was used in conjunction with MongoDB to provide a way to store user information and provide more complicated features for a website. For frontend, in this course we got to use PUG view engine as an easier way to write HTML pages and with HTML we used mainly Vanilla Javascript. Another part of the course was to use React to build frontend for weekly tasks and could optionally be used in the project. However, I opted to use rather basic tools like HTML (written with PUG) and Javascript with Materialize library for creating visual layout. Overall, the course was quite good introduction to communication between frontend and backend for websites and while this course will not make a pro at job, it gives basic tools to advance further. 
+
 
 ## Software Development
 
@@ -30,6 +32,7 @@ This repository contains information about the Software Engineering courses I ha
 
 - User Interfaces and Usability: The objective of this course was to emphasize the importance of UI design and usability for a better user experience. Simple applications were written in Dart using the Flutter framework. The course project involved designing an application in teams, creating specifications, identifying target user groups, and estimating userbase, along with UI design prototypes using Figma.
 
+- Introduction to DevOps: Course about a development, test, deploy pipeline for Web Application which is run in Microsoft Azure. The idea was to fix existing development process, where features would need to be manually tested and deployed, to work automatically. Essentially how the pipeline works is that when new feature is merged to main branch, the pipeline runs tests and upon successful completion containerizes the application and deploys it to Microsoft Azure where the application is accessible through web browser with new added feature. The application is rather simple as the main thought was to introduce how pipelines are configured and how apps can be deployed.    
 
 ## Computer Science
 
